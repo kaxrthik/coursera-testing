@@ -1,2 +1,0 @@
-# coursera-testing
-testing
